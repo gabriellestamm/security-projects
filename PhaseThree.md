@@ -8,11 +8,21 @@ In this project we are testing 14 different obfuscation techniques through Tigre
 
 ---
 
+# Obfuscation
+Obfuscation is the act of altering a program to where no identifying traits are visible. This can be used for code protection for anti-reverse engineering, but obfuscation can also be used on malware, helping it bypass virus scanners.
+
+![An-example-of-randomization-obfuscation](https://github.com/user-attachments/assets/3d145273-4505-4a07-9872-3d0456a1e87f)
+
+The photo above has been derived from (https://www.researchgate.net/publication/279861980_JSObfusDetector_A_binary_PSO-based_one-class_classifier_ensemble_to_detect_obfuscated_JavaScript_code)
+
+
 # Objectives
 ## Evaluate the Effectiveness of Obfuscation Techniques
 ### Implement Obfuscation Techniques Using Tigress​
 
 We will be using 14 obfuscation techniques on the same, simple C program using Tigress. 
+
+
 
 ### Analyze the Performance Impact ​
 
@@ -37,6 +47,13 @@ Our obfuscation process and results will be documented for future reference.
 We have 8 papers written on similar topics, to which we will be comparing and finding any gaps in. 
 
 ---
+
+# Process
+
+This flowchart showcases our process for obfuscating our code. 
+
+![csc466](https://github.com/user-attachments/assets/3c541cda-8b97-48ac-bb86-9203ca36700b)
+
 
 # Environment Setup
 
